@@ -7,9 +7,17 @@ This repository contains a static frontend implementation of an Amazon-like e-co
 This project aims to replicate the look and feel of Amazon’s homepage with a focus on showcasing the layout and styling elements of a typical e-commerce site.
 
 **Technologies Used:-**
+
+
 ---
+
+
 **HTML** - Markup Language used to structure the web page's content.
+
+
 ---
+
+
 **CSS** - Styling language used to design and layout the webpage.
 
 
